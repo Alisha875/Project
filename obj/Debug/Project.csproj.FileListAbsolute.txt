@@ -1,0 +1,7 @@
+C:\Users\alish\Desktop\Mphasis\Phase-end Project\Project\Project\bin\Debug\Project.exe.config
+C:\Users\alish\Desktop\Mphasis\Phase-end Project\Project\Project\bin\Debug\Project.exe
+C:\Users\alish\Desktop\Mphasis\Phase-end Project\Project\Project\bin\Debug\Project.pdb
+C:\Users\alish\Desktop\Mphasis\Phase-end Project\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\alish\Desktop\Mphasis\Phase-end Project\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\alish\Desktop\Mphasis\Phase-end Project\Project\Project\obj\Debug\Project.exe
+C:\Users\alish\Desktop\Mphasis\Phase-end Project\Project\Project\obj\Debug\Project.pdb
